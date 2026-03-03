@@ -37,10 +37,10 @@ Each file is named `{id}_{problem_title}.py` (or `.ipynb`) and includes the prob
 
 | Category | Easy | Medium | Hard |
 |----------|------|--------|------|
-| Linear Algebra | - | - | - |
+|Machine Learning | - | - | - |
 | Deep Learning | - | - | - |
 | Calculus | - | - | - |
-| Machine Learning | - | - | - |
+| Linear Algebra| - | - | - |
 | Statistics | - | - | - |
 
 ---
